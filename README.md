@@ -1,3 +1,4 @@
 # Project-Demo
-This is my first Git project <br>
-Author - Priti Joshi
+This is my first Git project 
+<br>
+Author123 - Priti Joshi 
